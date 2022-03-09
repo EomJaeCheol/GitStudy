@@ -10,3 +10,7 @@
 ### commit란?
 - 파일을 변경하거나 추가할때 사용하는 명령어입니다. 커밋시 이력이 남기때문에 버전관리도 할 수 있습니다.
 
+## 깃허브 활용 영상입니다
+<iframe width="851" height="480" src="https://www.youtube.com/embed/ALqTzOB0PjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
